@@ -25,7 +25,7 @@ export function Products() {
         >
           <option value="men's clothing">Mens Clothinga</option>
           <option value="jewelery">Jwelleiry</option>
-          <option value="women's clothing">Womens Clothingj</option>
+          <option value="women's clothing">Womessns Clothingj</option>
           <option value="electronis">Electronics</option>
         </select>
       </div>
