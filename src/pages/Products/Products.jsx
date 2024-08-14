@@ -24,7 +24,7 @@ export function Products() {
           }}
         >
           <option value="men's clothing">Mens Clothing</option>
-          <option value="jewelery">Jwellery</option>
+          <option value="jewelery">Jwellerkjsfky</option>
           <option value="women's clothing">Womens Clothing</option>
           <option value="electronis">Electronics</option>
         </select>
