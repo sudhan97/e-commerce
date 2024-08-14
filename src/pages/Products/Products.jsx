@@ -23,7 +23,7 @@ export function Products() {
             dispatch(filterByCategory(filteredProducts));
           }}
         >
-          <option value="men's clothing">Mens Clothingg</option>
+          <option value="men's clothing">Mens Clothinga</option>
           <option value="jewelery">Jwellery</option>
           <option value="women's clothing">Womens Clothing</option>
           <option value="electronis">Electronics</option>
