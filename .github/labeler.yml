@@ -2,7 +2,8 @@
 # possible related issues:
 # - https://github.com/actions/labeler/issues/112
 # - https://github.com/actions/labeler/issues/104
-
+Run nested -auto-:
+  - public/src/**/*
 # Add 'Needs Documentation -auto-' label to indicate a change needs changes in the docs
 bug:
   - public/src/**/*
